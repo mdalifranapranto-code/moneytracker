@@ -1,0 +1,6 @@
+{
+  "name": "My Money",
+  "description": "Offline-first personal finance ledger with automatic 11-tab Google Sheets synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
